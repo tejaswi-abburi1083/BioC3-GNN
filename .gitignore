@@ -1,0 +1,19 @@
+# ---------- DATA (DO NOT UPLOAD) ----------
+*.npy
+*.npz
+*.nii
+*.nii.gz
+*.bval
+*.bvec
+
+Example_Subjects_ADNI/
+Example_Subjects_NIFD/
+Histogram_Features_ADNI/
+Histogram_Features_NIFD/
+MedMNIST_datasets/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+
+# ---------- OS ----------
+.DS_Store
